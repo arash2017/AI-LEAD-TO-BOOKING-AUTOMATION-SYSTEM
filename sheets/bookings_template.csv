@@ -1,0 +1,3 @@
+Timestamp,Name,Phone,Email,Service,Booking Date,Booking Time,Notes,Call Status,Calendar Event ID,SMS Sent
+2026-03-09 10:15:00,Jane Smith,+15551234567,jane@example.com,Consultation,March 15 2026,2:00 PM,Prefers afternoon slots,completed,evt_abc123,yes
+2026-03-09 11:42:00,Mark Johnson,+15559876543,mark.j@example.com,Full Service,March 16 2026,10:00 AM,,completed,evt_def456,yes
